@@ -1,0 +1,12 @@
+---
+title: "Lab Resources"
+---
+
+Resources for lab members and the wider research community.
+
+## EEG Tutorials
+
+A collection of EEG tutorials recorded in the BLiNK Lab, covering setup,
+recording, and data processing.
+
+[View the EEG tutorials](https://drive.google.com/drive/folders/1IAOXpiETAsi0iOyNkxB8NY0BqRRvSGBX?usp=share_link){.signup-button}

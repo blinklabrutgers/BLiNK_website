@@ -1,0 +1,105 @@
+---
+title: "Selected Publications"
+---
+
+For the complete list, see
+[Dr. Sagarra's Google Scholar profile](https://scholar.google.com/citations?hl=en&user=ypJZ9csAAAAJ).
+
+<p class="pub-year">2025</p>
+
+Fernández, K., & Sagarra, N. (2025). Game on: Does computerized training
+promote L2 stress-suffix associations? *Languages.*
+https://doi.org/10.3390/languages10070170
+
+<p class="pub-year">2024</p>
+
+Sagarra, N., Fernández-Arroyo, L., Lozano-Argüelles, C., & Casillas, J. V.
+(2024). Unraveling the complexities of L2 lexical stress: L1 transfer, L2
+proficiency, and L2 exposure. *Language Learning.*
+https://doi.org/10.1111/lang.12627
+
+<p class="pub-year">2023</p>
+
+Sagarra, N., & Casillas, J. V. (2023). Practice beats age: High language use
+facilitates stress-suffix associations in Spanish heritage speakers.
+*Frontiers in Psychology, 14.* https://doi.org/10.3389/fpsyg.2023.1141174
+
+Lozano-Argüelles, C., Sagarra, N., & Casillas, J. V. (2023). Interpreting
+experience and working memory effects on L1 and L2 morphological prediction.
+*Frontiers in Language Sciences, 1.* https://doi.org/10.3389/flang.2022.1065014
+
+Fernández-Arroyo, L., Sagarra, N., & Fernández, K. (2023). Differential
+effects of language proficiency and use on L2 lexical prediction.
+*The Mental Lexicon.* https://doi.org/10.1075/ml.21013.fer
+
+<p class="pub-year">2022</p>
+
+Sagarra, N. (2022). Sentence processing: Cognitive approaches to L2
+morphosyntactic and morphological processing. In A. Godfroid & H. Hopp (Eds.),
+*The Routledge Handbook of Second Language Acquisition and Psycholinguistics*
+(pp. 229-241). Routledge.
+
+Sagarra, N., & Rodríguez, N. (2022). Subject-verb number agreement in
+bilingual processing: (Lack of) age of acquisition and proficiency effects.
+*Languages, 7,* 15. https://doi.org/10.3390/languages7010015
+
+<p class="pub-year">2021</p>
+
+Sagarra, N. (2021). When more is better: Higher L1-L2 similarity, L2
+proficiency, and working memory facilitate L2 morphosyntactic processing.
+*Studies in Bilingualism, 62,* 125-150. https://doi.org/10.1075/sibil.62.04sag
+
+Lozano-Argüelles, C., & Sagarra, N. (2021). Interpreting experience
+enhances the use of lexical stress to predict L2 word endings. *Applied
+Psycholinguistics, 42*(5), 1135-1157. https://doi.org/10.1017/S0142716421000217
+
+<p class="pub-year">2020</p>
+
+Lozano-Argüelles, C., Sagarra, N., & Casillas, J. V. (2020). Slowly but
+surely: Interpreting facilitates L2 morphological anticipation based on
+suprasegmental and segmental information. *Bilingualism: Language and
+Cognition, 23,* 752-762. https://doi.org/10.1017/S1366728919000634
+
+Sagarra, N., Bel, A., & Sánchez, L. (2020). Animacy hierarchy effects on L2
+processing of differential object marking. In S. Montrul & A. Mardale (Eds.),
+*The Acquisition of Differential Object Marking* (pp. 183-206). John Benjamins.
+https://doi.org/10.1075/tilar.26.sag7
+
+<p class="pub-year">2019</p>
+
+Sagarra, N. (2019). Individual differences in working memory and instructed
+SLA. In R. Leow (Ed.), *Handbook of Second Language Research in Classroom
+Learning* (pp. 452-463). Routledge.
+
+Sagarra, N. (2019). Age effects and morphological markedness in L2
+processing of gender agreement: Insights from eye-tracking. In D. Arteaga (Ed.),
+*L2 Grammatical Representation and Processing* (pp. 93-115). Multilingual Matters.
+
+Sagarra, N., Sánchez, L., & Bel, A. (2019). Processing DOM in relative
+clauses: Saliency and optionality in early and late learners. *Linguistic
+Approaches to Bilingualism* (pp. 120-160). https://doi.org/10.1075/lab.16020.sag
+
+<p class="pub-year">2018</p>
+
+Sagarra, N., & LaBrozzi, R. (2018). Benefits of study abroad on L2
+morphosyntactic processing, and of working memory on L2 semantic processing.
+In C. Sanz & A. Morales (Eds.), *The Routledge Handbook of Study Abroad Research
+and Practice* (pp. 149-164). Routledge.
+
+Sagarra, N., & Casillas, J. V. (2018). Suprasegmental information cues
+morphological anticipation during L1/L2 lexical access. *Journal of Second
+Language Studies, 1*(1), 31-60. https://doi.org/10.1075/jsls.17026.sag
+
+<p class="pub-year">Selected Earlier Work</p>
+
+Sagarra, N. (2017). Longitudinal effects of working memory on L2 grammar and
+reading abilities. *Second Language Research, 33*(3), 341-363.
+https://doi.org/10.1177/0267658317690577
+
+Sagarra, N., & Ellis, N. (2013). From seeing adverbs to seeing morphology:
+Language experience and adult acquisition of L2 tense. *Studies in Second
+Language Acquisition, 35*(2), 261-290. https://doi.org/10.1017/S0272263112000885
+
+Sagarra, N., & Herschensohn, J. (2010). The role of proficiency and working
+memory in gender and number agreement processing in L1 and L2 Spanish. *Lingua,
+120,* 2022-2039. https://doi.org/10.1016/j.lingua.2010.02.004

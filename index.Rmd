@@ -1,0 +1,38 @@
+---
+title: ""
+pagetitle: "BLiNK Lab — Bilingualism: Language in NeuroKognition"
+---
+
+<div class="lab-hero">
+<div>
+<span class="kicker">Rutgers · Department of Spanish &amp; Portuguese</span>
+<p class="lab-fullname"><strong>BL<span class="nk">i</span>NK Lab</strong> — Bilingualism: Language in NeuroKognition</p>
+<h1>How do bilingual brains process and predict language <span class="accent">in real time</span><span class="dot">?</span></h1>
+<p>The BLiNK Lab, directed by Dr. Nuria Sagarra at Rutgers University, investigates typical and atypical language processing in bilingual and monolingual children and adults.</p>
+<p>Our research examines how language experience and cognition shape the ability to understand and predict language in real time. We ask questions such as: How does working memory support second language processing? How do bilinguals predict morphology and syntax? How does language interact with emotion and the perception of chronic pain? How are languages best taught and assessed?</p>
+<p>Our lab uses a range of methods to address these questions, including self-paced reading, eye-tracking, EEG, and cognitive measures.</p>
+<a class="cta" href="people.html">Meet the team</a>
+</div>
+<div class="hero-media">
+<img class="brand" src="images/blink-logo.gif" alt="BLiNK Lab">
+<div class="hero-tiles">
+<div class="tile" style="background-image:url('images/lab/hero1.jpg');"></div>
+<div class="tile" style="background-color:#eef9da;background-image:url('images/lab/hero2.jpg');"></div>
+<div class="tile" style="background-color:#eef0f1;background-image:url('images/lab/hero3.jpg');"></div>
+<div class="tile" style="background-image:url('images/lab/hero4.jpg');background-position:left center;"></div>
+</div>
+</div>
+</div>
+
+<h2>News</h2>
+
+<div class="news">
+<div class="row"><span class="tag">FUNDING</span><div><strong>New funded project.</strong> Dr. Sagarra's project on <em>Language Effects on the Perception of Chronic Pain</em> has won a $75,000 School of Arts and Sciences (SAS) Opportunity grant.</div></div>
+<div class="row"><span class="tag">PUBLICATION</span><div><strong>New paper.</strong> Fernández &amp; Sagarra (2025), <em>Languages.</em> <a href="publications.html">See publications →</a></div></div>
+<div class="row"><span class="tag">RECRUITING</span><div><strong>Now recruiting.</strong> We are running new studies. <a href="participate.html">Participate →</a></div></div>
+</div>
+
+## Contact
+
+For questions about the lab or our research, email
+[blinklab.rutgers@gmail.com](mailto:blinklab.rutgers@gmail.com).

@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset="utf-8" />
+<meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+
+
+
+<title>Gallery</title>
+
+<script src="site_libs/header-attrs-2.30/header-attrs.js"></script>
+
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
+
+
+
+
+
+
+
+<link rel="stylesheet" href="styles.css" type="text/css" />
+
+
+
+
+</head>
+
+<body>
+
+
+<div class="site-nav">
+  <div class="inner">
+    <a href="index.html"><img src="images/rutgers-sas-black.png" alt="Rutgers — School of Arts and Sciences, Department of Spanish and Portuguese"></a>
+    <div class="links">
+      <a href="index.html" data-nav="index">Home</a>
+      <a href="people.html" data-nav="people">People</a>
+      <a href="publications.html" data-nav="publications">Publications</a>
+      <a href="gallery.html" data-nav="gallery">Gallery</a>
+      <a href="resources.html" data-nav="resources">Resources</a>
+      <a href="location.html" data-nav="location">Location</a>
+      <a class="btn" href="participate.html">Participate</a>
+    </div>
+  </div>
+</div>
+<script>
+(function(){
+  var page = (location.pathname.split('/').pop() || 'index.html').replace('.html','') || 'index';
+  var link = document.querySelector('.site-nav [data-nav="' + page + '"]');
+  if (link) link.classList.add('active');
+})();
+</script>
+<div class="page">
+
+
+<h1 class="title toc-ignore">Gallery</h1>
+
+
+
+<p>A look inside the BLiNK Lab: our space, our equipment, and our team
+at work.</p>
+<div class="gallery-grid">
+<p><img src="images/lab/eeg1.jpeg" alt="BLiNK Lab">
+<img src="images/lab/eeg2.jpeg" alt="BLiNK Lab">
+<img src="images/lab/eeg3.jpeg" alt="BLiNK Lab">
+<img src="images/lab/eeg4.jpeg" alt="BLiNK Lab">
+<img src="images/lab/eeg5.jpeg" alt="BLiNK Lab">
+<img src="images/lab/eeg6.jpeg" alt="BLiNK Lab">
+<img src="images/lab/eeg7.jpeg" alt="BLiNK Lab">
+<img src="images/lab/eeg8.jpg" alt="BLiNK Lab">
+<img src="images/lab/eeg9.jpg" alt="BLiNK Lab">
+<img src="images/lab/eeg10.jpg" alt="BLiNK Lab">
+<img src="images/lab/eeg11.jpg" alt="BLiNK Lab">
+<img src="images/lab/eeg12.jpg" alt="BLiNK Lab">
+<img src="images/lab/eeg13.jpg" alt="BLiNK Lab">
+<img src="images/lab/eeg14.jpg" alt="BLiNK Lab">
+<img src="images/lab/eeg15.jpg" alt="BLiNK Lab">
+<img src="images/lab/eeg16.jpg" alt="BLiNK Lab">
+<img src="images/lab/eeg17.jpg" alt="BLiNK Lab">
+<img src="images/lab/eeg18.jpg" alt="BLiNK Lab">
+<img src="images/lab/eyetracking.jpg" alt="Eye-tracking in the BLiNK Lab"></p>
+</div>
+
+</div>
+<div class="site-footer">
+  <div class="inner">
+    <div style="max-width:320px;">
+      <img src="images/rutgers-sas-white.png" alt="Rutgers School of Arts and Sciences, Department of Spanish and Portuguese">
+      <p style="margin-top:14px;">Bilingualism: Language in NeuroKognition, Department of Spanish &amp; Portuguese, Rutgers University.</p>
+    </div>
+    <div>
+      <div class="label">CONTACT</div>
+      <a href="mailto:blinklab.rutgers@gmail.com">blinklab.rutgers@gmail.com</a><br>
+      <span style="color:#8298a8;font-size:14px;">1 Spring Street<br>New Brunswick, NJ 08901</span>
+    </div>
+    <div>
+      <div class="label">EXPLORE</div>
+      <a href="people.html">People</a><br>
+      <a href="publications.html">Publications</a><br>
+      <a href="participate.html">Participate</a>
+    </div>
+  </div>
+  <div class="bar"><div>© 2026 BLiNK LAB · RUTGERS UNIVERSITY</div></div>
+</div>
+<script>
+(function(){
+  var exts=['.jpg','.jpeg','.JPG','.JPEG','.png','.PNG','.webp','.heic'];
+  function fix(img){
+    var src=img.getAttribute('src')||'';
+    var dot=src.lastIndexOf('.'); if(dot<0){img.src='images/placeholder.svg';return;}
+    var base=src.substring(0,dot);
+    var tried=(img.getAttribute('data-tried')||'').split(',').filter(Boolean);
+    tried.push(src.substring(dot));
+    for(var j=0;j<exts.length;j++){
+      if(tried.indexOf(exts[j])===-1){
+        img.setAttribute('data-tried',tried.join(','));
+        img.src=base+exts[j];
+        return;
+      }
+    }
+    img.src='images/placeholder.svg';
+  }
+  document.querySelectorAll('img.person-photo').forEach(function(img){
+    img.addEventListener('error',function(){fix(img);});
+    if(img.complete && img.naturalWidth===0) fix(img);
+  });
+})();
+</script>
+
+
+<!-- code folding -->
+
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>

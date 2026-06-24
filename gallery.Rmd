@@ -1,0 +1,27 @@
+---
+title: "Gallery"
+---
+
+A look inside the BLiNK Lab: our space, our equipment, and our team at work.
+
+<div class="gallery-grid">
+<img src="images/lab/eeg1.jpeg" alt="BLiNK Lab">
+<img src="images/lab/eeg2.jpeg" alt="BLiNK Lab">
+<img src="images/lab/eeg3.jpeg" alt="BLiNK Lab">
+<img src="images/lab/eeg4.jpeg" alt="BLiNK Lab">
+<img src="images/lab/eeg5.jpeg" alt="BLiNK Lab">
+<img src="images/lab/eeg6.jpeg" alt="BLiNK Lab">
+<img src="images/lab/eeg7.jpeg" alt="BLiNK Lab">
+<img src="images/lab/eeg8.jpg" alt="BLiNK Lab">
+<img src="images/lab/eeg9.jpg" alt="BLiNK Lab">
+<img src="images/lab/eeg10.jpg" alt="BLiNK Lab">
+<img src="images/lab/eeg11.jpg" alt="BLiNK Lab">
+<img src="images/lab/eeg12.jpg" alt="BLiNK Lab">
+<img src="images/lab/eeg13.jpg" alt="BLiNK Lab">
+<img src="images/lab/eeg14.jpg" alt="BLiNK Lab">
+<img src="images/lab/eeg15.jpg" alt="BLiNK Lab">
+<img src="images/lab/eeg16.jpg" alt="BLiNK Lab">
+<img src="images/lab/eeg17.jpg" alt="BLiNK Lab">
+<img src="images/lab/eeg18.jpg" alt="BLiNK Lab">
+<img src="images/lab/eyetracking.jpg" alt="Eye-tracking in the BLiNK Lab">
+</div>

@@ -1,0 +1,45 @@
+</div>
+<div class="site-footer">
+  <div class="inner">
+    <div style="max-width:320px;">
+      <img src="images/rutgers-sas-white.png" alt="Rutgers School of Arts and Sciences, Department of Spanish and Portuguese">
+      <p style="margin-top:14px;">Bilingualism: Language in NeuroKognition, Department of Spanish &amp; Portuguese, Rutgers University.</p>
+    </div>
+    <div>
+      <div class="label">CONTACT</div>
+      <a href="mailto:blinklab.rutgers@gmail.com">blinklab.rutgers@gmail.com</a><br>
+      <span style="color:#8298a8;font-size:14px;">1 Spring Street<br>New Brunswick, NJ 08901</span>
+    </div>
+    <div>
+      <div class="label">EXPLORE</div>
+      <a href="people.html">People</a><br>
+      <a href="publications.html">Publications</a><br>
+      <a href="participate.html">Participate</a>
+    </div>
+  </div>
+  <div class="bar"><div>© 2026 BLiNK LAB · RUTGERS UNIVERSITY</div></div>
+</div>
+<script>
+(function(){
+  var exts=['.jpg','.jpeg','.JPG','.JPEG','.png','.PNG','.webp','.heic'];
+  function fix(img){
+    var src=img.getAttribute('src')||'';
+    var dot=src.lastIndexOf('.'); if(dot<0){img.src='images/placeholder.svg';return;}
+    var base=src.substring(0,dot);
+    var tried=(img.getAttribute('data-tried')||'').split(',').filter(Boolean);
+    tried.push(src.substring(dot));
+    for(var j=0;j<exts.length;j++){
+      if(tried.indexOf(exts[j])===-1){
+        img.setAttribute('data-tried',tried.join(','));
+        img.src=base+exts[j];
+        return;
+      }
+    }
+    img.src='images/placeholder.svg';
+  }
+  document.querySelectorAll('img.person-photo').forEach(function(img){
+    img.addEventListener('error',function(){fix(img);});
+    if(img.complete && img.naturalWidth===0) fix(img);
+  });
+})();
+</script>

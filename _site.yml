@@ -1,0 +1,12 @@
+name: "BLiNK Lab"
+output_dir: "docs"
+exclude: ["README.md", "IMAGES_README.txt"]
+output:
+  html_document:
+    theme: null
+    highlight: null
+    css: styles.css
+    self_contained: false
+    includes:
+      before_body: header.html
+      after_body: footer.html
